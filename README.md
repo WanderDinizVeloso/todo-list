@@ -36,12 +36,20 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 
 ---
 
-# Habilidades desenvolvidas
+## Habilidades desenvolvidas
 
 - Manipular CSS
 - Manipular Javascript
 
 --- 
+
+## Tecnologias utilizadas
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+---
 
 ## Requisitos do projeto
 
